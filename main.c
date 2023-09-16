@@ -56,6 +56,5 @@ int main()
     count_t();
     count_T();
 
-    // printf("Hours left : %.1f", T);
     printf("Time left: %.1fh | velocity: %.1fmb/s | data loaded came: %dmb | time elapsed: %ds", T, v, s, t);
 }
